@@ -1,0 +1,40 @@
+@font-face {
+  font-family: Allstar;
+  src: url(allstar/All\ Star\ Resort.ttf);
+}
+nav {
+  position: fixed !important;
+  background-color: #7e7d7d;
+}
+p {
+  font-size: 1.2em;
+}
+h1,
+h2,
+.nav-wrapper {
+  font-family: Allstar;
+}
+.trab {
+  font-size: 1.5em;
+}
+.item-1,
+.item-2,
+.item-3 {
+  width: 200px;
+  margin: 0 9%;
+}
+.flex {
+  display: flex;
+  align-content: center;
+  margin: auto;
+  text-align: center;
+  flex-wrap: wrap;
+}
+footer {
+  background-color: #7e7d7d;
+  text-align: center;
+}
+.footer-texto {
+  color: #ffffff;
+  font-size: 1.5em;
+}
